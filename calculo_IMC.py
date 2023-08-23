@@ -1,5 +1,5 @@
 nome = "Victória Cardoso"
-altura = 1.59
+altura = 1.60
 peso = 60.3
 imc = peso/(altura ** 2)
 #com concatenação e conversão
